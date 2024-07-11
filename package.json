@@ -1,0 +1,22 @@
+{
+  "name": "@zixiu/vxe-table-extend",
+  "version": "0.0.1",
+  "description": "Vxe UI plug-in for compatibility with custom component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/our-time/vxe-table-extend.git"
+  },
+  "keywords": [
+    "vxe-table-extend"
+  ],
+  "author": "zixiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/our-time/vxe-table-extend/issues"
+  },
+  "homepage": "https://github.com/our-time/vxe-table-extend#readme"
+}
